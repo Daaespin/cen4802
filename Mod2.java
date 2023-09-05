@@ -1,5 +1,11 @@
 package cen4802;
-
+/**Returns the 10th term of the Fibonacci sequence
+ * Method needs a value assigned to n to return something
+ * @param n is the term in the Fibonacci sequence that the method finds
+ * @param result is the number in the sequence corresponding to the term entered
+ * @return the term of the Fibonacci sequence
+ * @see text
+ */
 public class Mod2 {
 	public static void main(String[] args) {
 		 int n = 10;
