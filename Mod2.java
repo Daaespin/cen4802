@@ -14,6 +14,4 @@ public class Mod2 {
 	            }else {
 	        	return fibonacci(n-1) + fibonacci(n-2);
 	            }
-	}
-
-}
+}}
