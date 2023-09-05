@@ -4,7 +4,7 @@ public class Mod2 {
 	public static void main(String[] args) {
 		 int n = 10;
 	        long result = fibonacci(n);
-	        System.out.println("The " +n+ "th Fibonacci number is "+result);
+	        System.out.println("The " +n+ "th term of the Fibonacci sequence is "+result);
 	    }
 	    public static long fibonacci(int n) {
 	        if (n <= 0) {
